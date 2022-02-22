@@ -1,0 +1,9 @@
+title: Test Github Pages
+description: Test DEsc
+baseurl: ''
+blog_theme: dark
+name: SnowMan
+
+assets:
+  sources:
+    - assets/
